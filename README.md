@@ -1,4 +1,4 @@
-# To-Do List
+# To-Do List - https://ihalemi.github.io/TodoList/
 
 Simple To-List App built with HTML5, CSS3 and jQuery.
 
